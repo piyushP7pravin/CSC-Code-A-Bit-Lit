@@ -1,7 +1,21 @@
 <center><h1>DATA VISUALIZATION</h1></center>
 <center><h3>Foreign Exchange Rates 2000-2019</h3></center>
 <center><h4>TEAM ID : 23, <a href="https://github.com/lovetyagi-17">Love Tyagi</a>, <a href="https://github.com/piyushP7pravin"> Piyush Pravin</a>
+ 
+ 
+<h2> Project Analysis </h2>
+<p>Data visualization refers to presenting data in a graphical or pictorial form, such as a pie chart. Visualizations allow audiences to recognize patterns more quickly. Interactive displays enable decision-makers to drill down through the layers of detail. This changes perspectives so that users can review the facts behind the analysis.
+</p>
+<ul>
+    <li>ANALYSIS
+</li>
+    <li>REPORT GENERATION</li>
+    <li>TRENDS OF DATA
+</li>
+    <li>DEEP INSIGHTS</li>
+   </ul>
     
+
 <h2>Repo Structure</h2>
 <ol>
     <li> Main Program File </li>
