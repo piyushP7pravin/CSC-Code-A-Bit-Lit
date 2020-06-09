@@ -104,3 +104,23 @@ body{
 .wrapper .main_content .info div{
   margin-bottom: 20px;
 }
+
+.column {
+  float: left;
+  padding: 25px; /* Should be removed. Only for demonstration */
+}
+
+.left {
+  width: 25%;
+}
+
+.right {
+  width: 75%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: " ";
+  display: table;
+  clear: both;
+}
