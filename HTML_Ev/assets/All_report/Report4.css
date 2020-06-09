@@ -3,9 +3,11 @@
     text-align: center;
   }
   .column {
-    float: left;
-    width: 33.3%;
-    padding: 5px;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
   }
   .h2{
     text-align: center;

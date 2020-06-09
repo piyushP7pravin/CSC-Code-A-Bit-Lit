@@ -1,7 +1,9 @@
 body {
   background-color: #EDEDED;
-  background-image: url('./assets/img/jez-timms-HauxSOFvh6k-unsplash.jpg');
+  background-image: url('./assets/img/homepage_pic.jpg');
   color: hsl(0, 0%, 100%);
+  background-repeat: no-repeat;
+  box-sizing: border-box;
   text-align: center;
 }
 .circular-menu {
