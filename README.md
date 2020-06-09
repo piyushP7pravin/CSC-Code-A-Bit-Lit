@@ -1,5 +1,4 @@
-<center><h1>DATA VISUALIZATION</h1></center>
-<center><h3>Foreign Exchange Rates 2000-2019</h3></center>
+![alt text](https://github.com/piyushP7pravin/CSC-Code-A-Bit-Lit/blob/master/homepage_pic.jpg)=640*360
 <center><h4>TEAM ID : 23, <a href="https://github.com/lovetyagi-17">Love Tyagi</a>, <a href="https://github.com/piyushP7pravin"> Piyush Pravin</a>
  
  
