@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+  }
+  .column {
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+  .h2{
+    text-align: center;
+  }
+  /* Clearfix (clear floats) */
+  .row::after {
+    content: " ";
+    clear: both;
+    display: table;
+  }
+  
