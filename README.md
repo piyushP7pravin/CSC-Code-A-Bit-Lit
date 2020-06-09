@@ -1,7 +1,21 @@
 <center><h1>DATA VISUALIZATION</h1></center>
 <center><h3>Foreign Exchange Rates 2000-2019</h3></center>
 <center><h4>TEAM ID : 23, <a href="https://github.com/lovetyagi-17">Love Tyagi</a>, <a href="https://github.com/piyushP7pravin"> Piyush Pravin</a>
-
+    
+<h2>Repo Structure</h2>
+<ol>
+    <li> Main Program File </li>
+         <ul>
+             <li>CSC_data_visualization_LOVE_PIYUSH.ipynb</li>
+    </ul>
+    <li> Working Demo </li>
+        <ul> 
+            <li>Web App</li>
+                <ul>
+                    <li>head.html</li>
+            </ul>
+            <li> Plots -> report_data</li>
+            </ol>
 <div class="container pandas-profiling">
     <div class="row headerrow highlight">
         <h1>Overview</h1>
@@ -69,5 +83,3 @@
             </tbody>
         </table>
     </div>
-
-<img src="https://github.com/piyushP7pravin/CSC-Code-A-Bit-Lit/blob/master/report_data/report_4/major_foreign_exchange_rates.png>
