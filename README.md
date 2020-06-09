@@ -1,6 +1,6 @@
 <center><h1>DATA VISUALIZATION</h1></center>
 <center><h3>Foreign Exchange Rates 2000-2019</h3></center>
-<center><h4>TEAM ID : 23, <a href="https://github.com/lovetyagi-17">Love Tyagi</a>, <a href="https://github.com/piyushP7pravin"> Piyush Pravin
+<center><h4>TEAM ID : 23, <a href="https://github.com/lovetyagi-17">Love Tyagi</a>, <a href="https://github.com/piyushP7pravin"> Piyush Pravin</a>
 
 <div class="container pandas-profiling">
     <div class="row headerrow highlight">
